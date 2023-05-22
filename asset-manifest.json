@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/dat/static/js/main.27777dee.js",
+    "static/media/bg-presentation.jpg": "/dat/static/media/bg-presentation.73d612b1581e58381085.jpg",
+    "index.html": "/dat/index.html",
+    "main.27777dee.js.map": "/dat/static/js/main.27777dee.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27777dee.js"
+  ]
+}
